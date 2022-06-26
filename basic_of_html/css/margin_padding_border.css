@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+.apple{
+    margin: 30pt;
+    background-color: orange;
+    padding: 30pt;
+    border: 10px solid;
+}
+ 
+#div1 {
+    margin-left: 30pt;
+    background-color: gray;
+
+}
+#div2{
+    margin-right: 30pt;
+    background-color:skyblue;
+}
