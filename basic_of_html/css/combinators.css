@@ -1,0 +1,29 @@
+li {
+    font-weight: bolder;
+}
+
+ul>li{
+    color: red;
+}
+
+ol>li{
+    color: green;
+}
+
+ul ul {
+    font-style: italic;
+    font-size: larger;
+}
+ol ol{
+    font-style: italic;
+    font-size:smaller;
+}
+ol li li{
+    background-color: aqua;
+}
+ul li{
+    background-color: bisque;
+}
+ol ol {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
